@@ -43,6 +43,7 @@ A complete list of all slash commands available in SupraBot.
 |---------|-------------|
 | `/tune <car> <group>` | Install performance parts and visual modifications on your car. Available categories: Exhaust, Spoiler, Wheels, Intake, Brakes, Bodywork. Parts increase your car's value. |
 | `/upgrades` | Browse and purchase permanent player upgrades such as extra rolls, bigger garage capacity, the Spare Key, and more. |
+| `/upgradesinfo` | A detailed guide explaining what each player upgrade does, its cost, and requirements. |
 | `/refund <upgrade>` | Sell back a player upgrade for 70% of its original cost. Cannot refund upgrades that are prerequisites for others you own. |
 | `/refundparts <car>` | Remove installed performance parts from a car and receive a partial refund. |
 
