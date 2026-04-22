@@ -75,10 +75,12 @@ A complete list of all slash commands available in SupraBot.
 | Command | Description |
 |---------|-------------|
 | `/setclaimexpire [seconds]` | Set the acquire timer for a guild. Leave empty to reset to default. |
+| `/setrollchannel [channel]` | Set the roll channel for a guild. Leave empty to reset to default. |
+| `/setcommandchannel [channel]` | Set the command channel for a guild. Leave empty to reset to default. |
 
 ---
 
-## �📝 Notes
+## 📝 Notes
 
 - Arguments in `<angle brackets>` are **required**.
 - Arguments in `[square brackets]` are **optional**.
