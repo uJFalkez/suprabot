@@ -70,7 +70,15 @@ A complete list of all slash commands available in SupraBot.
 
 ---
 
-## 📝 Notes
+## 🔐 Admin commands
+
+| Command | Description |
+|---------|-------------|
+| `/setclaimexpire [seconds]` | Set the acquire timer for a guild. Leave empty to reset to default. |
+
+---
+
+## �📝 Notes
 
 - Arguments in `<angle brackets>` are **required**.
 - Arguments in `[square brackets]` are **optional**.
