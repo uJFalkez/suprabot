@@ -53,8 +53,9 @@ A complete list of all slash commands available in SupraBot.
 
 | Command | Description |
 |---------|-------------|
-| `/servertop` | Leaderboard of the most valuable cars currently owned in this server. |
-| `/servertopgarage` | Ranking of players by total garage value, showing each player's worth and car count. |
+| `/globaltop [page]` | Global leaderboard of the most valuable servers in the world! |
+| `/servertop [page]` | Leaderboard of the most valuable cars currently owned in this server. |
+| `/servertopgarage [page]` | Ranking of players by total garage value, showing each player's worth and car count. |
 | `/serverprogress` | Overview of the server's overall progress — total cars acquired, total server value, and player count. |
 
 ---
@@ -74,6 +75,7 @@ A complete list of all slash commands available in SupraBot.
 
 | Command | Description |
 |---------|-------------|
+| `/rankserver` | Enter or leave the global server rankings! Opens a modal to join or leave the leaderboard. |
 | `/setclaimexpire [seconds]` | Set the acquire timer for a guild. Leave empty to reset to default. |
 | `/setrollchannel` | Set the current channel to be the roll channel for a guild. |
 | `/resetrollchannel` | Remove the roll channel for a guild. |
