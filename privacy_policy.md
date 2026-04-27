@@ -19,7 +19,7 @@ SupraBot collects the following data when you interact with the bot:
 
 We do NOT collect:
 
-- Message content, beyond slash command interactions to perform the command (data is destroyed immediately after the command is performed)
+- Message content beyond slash command interactions
 - Direct messages
 - Email addresses, IP addresses, or any personal information beyond your Discord User ID
 - Voice or video data
